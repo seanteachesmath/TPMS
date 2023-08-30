@@ -1,69 +1,122 @@
-<?xml version='1.0' encoding='utf-8'?>
-
-<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
-
+<?xml version='1.0' encoding='UTF-8'?>
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
   <docinfo>
-    <macros>
-      \newcommand{\R}{\mathbb R}
-    </macros>
+
+<macros>
+\newcommand{\BibTeX}{\textsc{Bib}\TeX}
+</macros>
+
+    <latex-preamble>
+        <package>cancel</package>
+
+    </latex-preamble>
     <latex-image-preamble>
-      \usepackage{tikz}
+    \usepackage{tikz}
     </latex-image-preamble>
+
   </docinfo>
 
-  <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
 
-    <frontmatter xml:id="frontmatter">
-      <titlepage>
+
+  <book xml:id="tech-prof-math-stat">
+    <title>Technology for Professional Mathematics and
+Statistics</title>
+<frontmatter xml:id="frontmatter">
+
+<titlepage>
         <author>
-          <personname>You</personname>
-          <department>Your department</department>
-          <institution>Your institution</institution>
+            <personname>Sean Laverty</personname>
+            <department>Department of Mathematics and
+Statistics</department>
+            <institution>University of Central Oklahoma</institution>
+            <email>slaverty@uco.edu</email>
         </author>
-        <date>
-          <today />
-        </date>
-      </titlepage>
 
-      <colophon>
+<date><today/></date>
+</titlepage>
 
-        <website>
-          <name>
-            <c>example.org</c>
-          </name>
-          <address>https://example.org</address>
-        </website>
+<preface xml:id="preface">
+<title>Preface</title>
+<p>I encourage you to use this class as an
+opportunity to treat computers as scientific tools. All computers are
+slightly different, so dont be afraid to look at the preferences of the
+program to add line numbers to code, enable syntax highlighting (so
+commands shine in bright colors), or to make fonts larger in your text
+editor , Stare at error
+messages and try to pick out key words, keep a close eye on the
+differences between <c>{</c>, <c>[</c>, and <c>(</c> and their partners,
+and the direction you make your slashes.
+</p>
 
-        <copyright>
-          <year>2020<ndash />2023</year>
-          <holder>You</holder>
-          <shortlicense> 
-            This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
-          </shortlicense>
-        </copyright>
-      </colophon>
-    </frontmatter>
+<p>This version of the notes is written with PreTeXt, a <latex/>-compatible, but accessibility-friendly, web-based platform.
+</p>
 
-    <chapter xml:id="chapter-title">
-      <title>Chapter title</title>
+<table xml:id="file-table" class="unnumbered">
+<title>Commonly encountered files.</title>
+<tabular>
+<row class="odd">
+<cell halign="left">.tex</cell>
+<cell halign="left">main <latex/> file</cell>
+</row>
+<row class="even">
+<cell halign="left">.pdf</cell>
+<cell halign="left">desired output</cell>
+</row>
+<row class="odd">
+<cell halign="left">.toc</cell>
+<cell halign="left">contents information</cell>
+</row>
+<row class="even">
+<cell halign="left">.log</cell>
+<cell halign="left">console report (errors,
+warnings)</cell>
+</row>
+<row class="odd">
+<cell halign="left">.idx</cell>
+<cell halign="left">related to index</cell>
+</row>
+<row class="even">
+<cell halign="left">.toc</cell>
+<cell halign="left">contents information</cell>
+</row>
+<row class="odd">
+<cell halign="left">.aux</cell>
+<cell halign="left">used for contents</cell>
+</row>
+</tabular>
+</table>
+</preface>
+<preface xml:id="preface-themes">
 
-      <section xml:id="section-title">
-        <title>Section title</title>
-        <p>Hello</p>
-      </section>
+<title>Themes</title>
+<p> The themes of the course are typesetting,
+numerical calculations, and symbolic calculation. Towards the end of the
+semester, a goal of more open-ended problem solving should emerge. The
+hope is to use our tools to solve some of your more open-ended problems
+and learn how to diagnose and correct problems in coding.
+</p>
+</preface>
 
-    </chapter>
+<preface xml:id="preface-workload">
+<title>Work</title>
+<p> Copies of your homework assignments will be
+collected here on separate pages. They will be listed in the order
+assigned, first <latex/>, then <c>R</c>, then <c>sage</c>.
+</p>
 
-    <backmatter xml:id="backmatter">
-      <title>Backmatter</title>
+</preface>
 
-      <colophon>
-        <p> This book was authored in <pretext />. </p>
-      </colophon>
+</frontmatter>
 
-    </backmatter>
+<!--***************************-->
+<!--***************************-->
+
+        <xi:include href="./latex/main.ptx" />
+        <!--><xi:include href="./cas/main.ptx" />-->
+        <!--><xi:include href="./r/main.ptx" />-->
+
+<!--***************************-->
+<!--***************************-->
 
   </book>
 </pretext>
