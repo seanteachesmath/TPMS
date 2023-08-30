@@ -51,8 +51,17 @@ var ptx_lunr_docs = [
   "url": "latex-math.html",
   "type": "Section",
   "number": "1.2",
-  "title": "Introduction to <span class=\"latex-logo\">L<span class=\"A\">a<\/span>T<span class=\"E\">e<\/span>X<\/span>",
-  "body": " Introduction to latex   Simple math  Our plan is to type a few sample mathematical statements.    Review  We did some of our work using accounts on .  There are plenty of other options, take some time to explore and find a configuration you enjoy using.  .    Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+  "title": "Simple mathematical results",
+  "body": " Simple mathematical results   Simple mathematical results  Our plan is to type a few sample mathematical statements.    Review  We did some of our work using accounts on .  There are plenty of other options, take some time to explore and find a configuration you enjoy using.  .    Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+},
+{
+  "id": "latex-math-more",
+  "level": "1",
+  "url": "latex-math-more.html",
+  "type": "Section",
+  "number": "1.3",
+  "title": "More involved mathematical results",
+  "body": " More involved mathematical results   More involved mathematical results  Our plan is to type a few more involved mathematical results, like aligned calculations.    Review  We did some of our work using accounts on .  .    Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
 }
 ]
 
