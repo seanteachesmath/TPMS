@@ -1,3 +1,3 @@
-# My Great Book
+# Technology for Professional Mathematics and Statistics: Notes for Fall 2023
 
-Visit <https://pretextbook.org/documentation.html> to learn more.
+This is a work-in-progress and may not always work.
