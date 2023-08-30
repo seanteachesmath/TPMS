@@ -5,6 +5,7 @@
 
         <xi:include href="latex-intro.ptx" />
         <xi:include href="latex-math.ptx" />
+        <xi:include href="latex-math-more.ptx" />
 
 <!--***************************-->
 

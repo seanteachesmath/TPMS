@@ -1,31 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<section xml:id="latex-math"><!--08/17-->
-<title>Simple mathematical results</title>
-<subsection xml:id="latex-math-preview">
-<title>Simple mathematical results</title>
+<section xml:id="latex-math-more"><!--08/17-->
+<title>More involved mathematical results</title>
+<subsection xml:id="latex-math-more-preview">
+<title>More involved  mathematical results</title>
 
-<p>Our plan is to type a few sample mathematical statements.
+<p>Our plan is to type a few more involved mathematical results, like aligned calculations.
 </p>
 
 </subsection>
 
-<subsection xml:id="latex-math-review">
+<subsection xml:id="latex-math-more-review">
 <title>Review</title>
 
 <p>We did some of our work using accounts on <url
 href="https:://www.overleaf.com"/>.</p>
-
-
-
-<p>There are plenty of other options, take some time to explore and find a configuration you enjoy using.</p>
-
 
 <p><!--><url href="https://seanteachesmath.github.io/books/tech-prof-math-stat/notes/day1.pdf">Day 1 Notes (pdf)</url>-->.
 </p>
 </subsection>
 
 
-<subsection xml:id="latex-math-student-perspective">
+<subsection xml:id="latex-math-more-student-perspective">
 <title>Student perspective</title>
 <p>Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.</p>
 <p>You might highlight something interesting, surprising, confusing, annoying, or otherwise important.</p>
