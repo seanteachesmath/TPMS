@@ -37,13 +37,22 @@ var ptx_lunr_docs = [
   "body": " Work  Copies of your homework assignments will be collected here on separate pages. They will be listed in the order assigned, first latex , then R , then sage .  "
 },
 {
-  "id": "introduction",
+  "id": "latex-intro",
   "level": "1",
-  "url": "introduction.html",
+  "url": "latex-intro.html",
   "type": "Section",
   "number": "1.1",
   "title": "Introduction to <span class=\"latex-logo\">L<span class=\"A\">a<\/span>T<span class=\"E\">e<\/span>X<\/span>",
   "body": " Introduction to latex   Preview  Our plan is to introduce the main objectives of the class (i.e., syllabus and goals). We will test latex by opening a blank document and building up features based on classroom requests.    Review  We did some of our work using accounts on .  With software (in this case Overleaf) in hand, we opened a mostly blank document, set up the main structure of the document, and practiced typing text and compiling. In the main structure we set the document class, began the document, and added content to the preamble to generate title page information.  The following links will help you install the appropriate software for your computer. The interface TeXworks Software interface, TeXWorks on Windows OS (link)  OS , Windows computers additionally Windows users will need to install an engine either TeXLive (link - look for install-tl-windows.exe)  Software engine , TexLive or MikTeX Software engine , MiKTeX (link - look for basic-miktex-##.##-x64.exe) . You will want to plug your computer in, turn off any antivirus software (these are safe programs), and give yourself plenty of time for the downloads. Things are a bit easier on Mac OS, we use TeXshop Software interface , TeXshop that comes from the MacTeX Software engine , MacTeX installer on Mac OS (link)  OS , Mac .  There are plenty of other options, take some time to explore and find a configuration you enjoy using.  .    Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+},
+{
+  "id": "latex-math",
+  "level": "1",
+  "url": "latex-math.html",
+  "type": "Section",
+  "number": "1.2",
+  "title": "Introduction to <span class=\"latex-logo\">L<span class=\"A\">a<\/span>T<span class=\"E\">e<\/span>X<\/span>",
+  "body": " Introduction to latex   Simple math  Our plan is to type a few sample mathematical statements.    Review  We did some of our work using accounts on .  There are plenty of other options, take some time to explore and find a configuration you enjoy using.  .    Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
 }
 ]
 
