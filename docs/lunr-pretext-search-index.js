@@ -62,6 +62,15 @@ var ptx_lunr_docs = [
   "number": "1.3",
   "title": "More involved mathematical results",
   "body": " More involved mathematical results   More involved mathematical results  Our plan is to type a few more involved mathematical results, like aligned calculations.    Review  We did some of our work using accounts on .  .    Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+},
+{
+  "id": "latex-misc-format",
+  "level": "1",
+  "url": "latex-misc-format.html",
+  "type": "Section",
+  "number": "1.4",
+  "title": "Miscellaneous formatting commands",
+  "body": " Miscellaneous formatting commands   More involved mathematical results  Our plan is to type a few more involved mathematical results, like aligned calculations.    Review    Student perspective  Be sure to check your screen settings when typing. Should night mode be activated to any extent, it can wash out colors and lower readability. If your IDE does not readily support a desired color scheme, there will be another that does. One list of IDE’s can be found at .  No more mouse movement and clicks after compiling: to skip using the mouse after compiling, switch focus back to your editor window by using the cycling shortcut appropriate to your OS.  ALT+TAB for Windows  Command+TAB for Mac  CTRL + ALT + LEFT ARROW or CTRL + ALT + RIGHT ARROW for Linux   >  "
 }
 ]
 
