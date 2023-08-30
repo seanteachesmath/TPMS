@@ -27,7 +27,15 @@ href="https:://www.overleaf.com"/>.</p>
 
 <subsection xml:id="latex-math-student-perspective">
 <title>Student perspective</title>
-<p>Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.</p>
-<p>You might highlight something interesting, surprising, confusing, annoying, or otherwise important.</p>
+<p>Be sure to check your screen settings when typing.  Should night mode be activated to any extent, it can wash out colors and lower readability.  If your IDE does not readily support a desired color scheme, there will be another that does.  One list of IDE’s can be found at <url href="https://tex.stackexchange.com/questions/339/latex-editors-ides"/>.</p>
+
+<p>No more mouse movement and clicks after compiling: to skip using the mouse after compiling, switch focus back to your editor window by using the cycling shortcut appropriate to your OS. 
+
+<ul>
+<li><p><c>ALT+TAB</c> for Windows</p></li>
+<li><p><c>Command+TAB</c> for Mac</p></li>
+<li><p><c>CTRL + ALT + LEFT ARROW</c> or <c>CTRL + ALT + RIGHT ARROW</c> for Linux</p></li>
+</ul>
+</p>>
 </subsection>
 </section>
