@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<section xml:id="latex-floats"><!--08/17-->
+<title>Tables and figures</title>
+<subsection xml:id="latex-floats-preview">
+<title>Preview</title>
+
+<p>Our plan is to introduce commands to incorporate tabular and graphical content.
+</p>
+
+</subsection>
+
+<subsection xml:id="latex-floats-review">
+<title>Review</title>
+
+
+</subsection>
+
+
+<subsection xml:id="latex-floats-student-perspective">
+<title>Student perspective</title>
+
+</subsection>
+</section>
