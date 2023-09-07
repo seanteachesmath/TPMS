@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <section xml:id="latex-floats"><!--08/17-->
-<title>Tables and figures</title>
+<title>Tables and Figures</title>
 <subsection xml:id="latex-floats-preview">
 <title>Preview</title>
 
-<p>Our plan is to introduce commands to incorporate tabular and graphical content.
+<p>Our plan is to introduce commands to organize ideas as tables and include figures.
 </p>
 
 </subsection>
@@ -18,6 +18,6 @@
 
 <subsection xml:id="latex-floats-student-perspective">
 <title>Student perspective</title>
-
+<p></p>
 </subsection>
 </section>

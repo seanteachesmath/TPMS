@@ -7,6 +7,7 @@
         <xi:include href="latex-math.ptx" />
         <xi:include href="latex-math-more.ptx" />
         <xi:include href="latex-miscellaneous-formatting.ptx" />
+        <xi:include href="latex-lists.ptx" />
         <xi:include href="latex-floats.ptx" />
 
 <!--***************************-->
