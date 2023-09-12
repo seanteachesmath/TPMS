@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Simple mathematical results",
-  "body": " Simple mathematical results   Simple mathematical results  Our plan is to type a few sample mathematical statements.    Review  We did some of our work using accounts on .  There are plenty of other options, take some time to explore and find a configuration you enjoy using.  .    Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+  "body": " Simple mathematical results   Simple mathematical results  Our plan is to type a few sample mathematical statements.    Review  We did some of our work using accounts on .  There are plenty of other options, take some time to explore and find a configuration you enjoy using.  .    Student perspective  Be sure to check your screen settings when typing. Should night mode be activated to any extent, it can wash out colors and lower readability. If your IDE does not readily support a desired color scheme, there will be another that does. One list of IDE’s can be found at .  No more mouse movement and clicks after compiling: to skip using the mouse after compiling, switch focus back to your editor window by using the cycling shortcut appropriate to your OS.  ALT+TAB for Windows  Command+TAB for Mac  CTRL + ALT + LEFT ARROW or CTRL + ALT + RIGHT ARROW for Linux     "
 },
 {
   "id": "latex-math-more",
@@ -70,25 +70,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "Miscellaneous formatting commands",
-  "body": " Miscellaneous formatting commands   More involved mathematical results  Our plan is to introduce a collection of miscellaneous text and math formatting commands.    Review    Student perspective  Be sure to check your screen settings when typing. Should night mode be activated to any extent, it can wash out colors and lower readability. If your IDE does not readily support a desired color scheme, there will be another that does. One list of IDE’s can be found at .  No more mouse movement and clicks after compiling: to skip using the mouse after compiling, switch focus back to your editor window by using the cycling shortcut appropriate to your OS.  ALT+TAB for Windows  Command+TAB for Mac  CTRL + ALT + LEFT ARROW or CTRL + ALT + RIGHT ARROW for Linux   >  "
-},
-{
-  "id": "latex-lists",
-  "level": "1",
-  "url": "latex-lists.html",
-  "type": "Section",
-  "number": "1.5",
-  "title": "Lists",
-  "body": " Lists   Preview  Our plan is to introduce commands to organize ideas as lists.    Review    Student perspective  I don't recall how to get the commented parts to function, but their original purpose was so that I could have more than one of these lists and so that latex could tell them apart. I found the setup for this within a Stack Exchange post a couple years back while working on a document for my independent study. Stack Exchange is a very helpful website for when you have a question for how to do something specific. It's heavily used by programmers, and they have plenty of posts for stuff like latex as well. I found it interesting that \\phantom{} worked to leave an item's line empty even though it had nothing within its argument. I also found it interesting that \\:{o} didn't work to add the two dots above the o; I also tried using \\..{o} , but that did not work either. I am happy to learn the description environment for case-based lists like in proofs. With the notes about powers of powers, I believe the higher exponential operation has precedence over the lower operation. In other words and from my understanding, without parentheses, t^{2^{2}} is the proper way to represent it, but if you needed to represent it the other way, it should be represented as (t^{2})^{2} . To tell the difference between L's and Pipe's in the tabular environment's argument, it may help to group them, maybe each column is separated by a space since those don't appear to affect the end result. In other words, a single vertical bar (one L) would mean left-aligned with no bar to the right and two vertical bars (an L and a Pipe) would mean left-aligned with a bar to the right. For example, if we want three left aligned columns with a bar between the first two, we could set the tabular environment's argument to {l| l l} .   "
-},
-{
-  "id": "latex-floats",
-  "level": "1",
-  "url": "latex-floats.html",
-  "type": "Section",
-  "number": "1.6",
-  "title": "Tables and Figures",
-  "body": " Tables and Figures   Preview  Our plan is to introduce commands to organize ideas as tables and include figures.    Review    Student perspective    "
+  "body": " Miscellaneous formatting commands   More involved mathematical results  Our plan is to type a few more involved mathematical results, like aligned calculations.    Review    Student perspective  I am not very great at expressing myself in real life, but strangely, I'm very expressive online. I use emojis, I use funny fonts and I change the size of texts to emphasize words in place of emotion. So, being able to use programming to change the fonts, the size of the text and especially the colors is a huge deal for me. Additionally, I have a secret hobby for writing and this gives me total control to tell a story exactly the way I want to. Finally, when it comes to note taking, I like to use certain colors or fonts to draw attention to specific key points. These new skills we learned are a major game changer when taking notes on a computer.   "
 }
 ]
 
