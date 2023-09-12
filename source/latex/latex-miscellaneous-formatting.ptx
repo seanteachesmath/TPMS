@@ -18,15 +18,7 @@
 
 <subsection xml:id="latex-misc-format-student-perspective">
 <title>Student perspective</title>
-<p>Be sure to check your screen settings when typing.  Should night mode be activated to any extent, it can wash out colors and lower readability.  If your IDE does not readily support a desired color scheme, there will be another that does.  One list of IDE’s can be found at <url href="https://tex.stackexchange.com/questions/339/latex-editors-ides"/>.</p>
 
-<p>No more mouse movement and clicks after compiling: to skip using the mouse after compiling, switch focus back to your editor window by using the cycling shortcut appropriate to your OS. 
-
-<ul>
-<li><p><c>ALT+TAB</c> for Windows</p></li>
-<li><p><c>Command+TAB</c> for Mac</p></li>
-<li><p><c>CTRL + ALT + LEFT ARROW</c> or <c>CTRL + ALT + RIGHT ARROW</c> for Linux</p></li>
-</ul>
-</p>>
+<p>I am not very great at expressing myself in real life, but strangely, I'm very expressive online. I use emojis, I use funny fonts and I change the size of texts to emphasize words in place of emotion. So, being able to use programming to change the fonts, the size of the text and especially the colors is a huge deal for me. Additionally, I have a secret hobby for writing and this gives me total control to tell a story exactly the way I want to. Finally, when it comes to note taking, I like to use certain colors or fonts to draw attention to specific key points. These new skills we learned are a major game changer when taking notes on a computer.</p>
 </subsection>
 </section>
