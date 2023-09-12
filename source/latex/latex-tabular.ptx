@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<section xml:id="latex-tabular" ><!--08/17-->
+<title>Tabular displays</title>
+<subsection xml:id="latex-tabular-preview">
+<title>Preview</title>
+
+<p>We will explore formatting commands for tabular displays of information.
+</p>
+
+</subsection>
+
+<subsection xml:id="latex-tabular-review">
+<title>Review</title>
+
+<p><url href="https://seanteachesmath.github.io/TPMS/day1.pdf">Day 1 Notes (pdf)</url>.
+</p>
+</subsection>
+
+
+<subsection xml:id="latex-tabular-student-perspective">
+<title>Student perspective</title>
+<p>Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.</p>
+<p>You might highlight something interesting, surprising, confusing, annoying, or otherwise important.</p>
+</subsection>
+</section>

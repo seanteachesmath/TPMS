@@ -3,12 +3,14 @@
 <title><latex/></title>
 
 
-        <xi:include href="latex-intro.ptx" />
-        <xi:include href="latex-math.ptx" />
-        <xi:include href="latex-math-more.ptx" />
-        <xi:include href="latex-miscellaneous-formatting.ptx" />
-
-<!--***************************-->
+        <xi:include href="latex-intro.ptx" /> <!--0821-->
+        <xi:include href="latex-math.ptx" /> <!--0823-->
+        <xi:include href="latex-math-more.ptx" /><!--0828-->
+        <xi:include href="latex-miscellaneous-formatting.ptx" /><!--0830-->
+        <xi:include href="latex-tabular.ptx" /><!--0906-->
+	    <xi:include href="latex-floats.ptx" /><!--0911-->
+	    <xi:include href="latex-bibtex.ptx" /><!--0913-->
+	    <!--***************************-->
 
 
     </chapter>

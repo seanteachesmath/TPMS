@@ -1,0 +1,49 @@
+\documentclass{article}
+
+\title{Day 2 notes}
+\author{Sean Laverty}
+\date{August 23, 2023}
+
+\begin{document}
+
+\maketitle
+
+\newpage
+
+\tableofcontents
+\newpage
+
+\section{Introduction to Calculus}
+
+
+\subsection{Limits}
+A key concept in calculus is the limit.  Below we will evaluate a few limits.  For example, we might want to evaluate \( \lim_{x \to 5} (1+x-2x^2)\). But, that is ugly to look at, so let's write it better, \(\lim\limits_{x \to 5} (1 + x + 2x^2)\). What happens if we keep writing? What happens if we keep writing? What happens if we keep writing? What happens if we keep writing? What happens if we keep writing?  Instead, we might write, \[\lim_{x \to 5} 1 + x + 2x^2 = 1 + 5 + 2(5)^2 = 56.\]
+
+%% second row of limit information
+\subsection{Derivatives}
+Consider the function \(f(x) = x^3\). By the power rule for derivatives, \(f'(x) = 3x^2\). In general we have for a function \(g(x) = x^n\), \[g'(x) = \frac{d}{dx}(x^{n}) = nx^{n-1}.\] %% \cdot works for multiplication
+
+Recall that the power rule works as a direct result of the limit definition of the derivative which is given by, \[ f'(x) = \frac{df}{dx} = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}.\] We sometimes replace \(h\) by the symbol \(\Delta x\).
+
+%% Write a sentence or two with first and second derivatives of a monomial.
+We can also take higher-order derivatives of functions using the same rules.    For \(f(x) = x^{17}\) we have \(f'(x) = \frac{df}{dx} = 17x^{16}\) and \(f''(x) = \frac{d^{2}\!f}{dx^2} = 17\cdot16x^{15}\).
+
+%% Check spacing on second derivative.  Options include \! or \, or \;
+\subsection{Integrals}
+Finally the integral, of which we can discuss two types: indefinite and definite.
+\subsubsection{Indefinite integrals}
+As an example of an indefinite integral we have, \[\int x^2\,dx = \frac{x^{3}}{3} + c\]
+\subsubsection{Definite integrals}
+(add some words) \[\int_{0}^{\pi} \sin(x)\,dx = \dots\]
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
