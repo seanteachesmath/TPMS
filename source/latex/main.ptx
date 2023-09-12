@@ -2,7 +2,6 @@
 <chapter xml:id="latex"  xmlns:xi="http://www.w3.org/2001/XInclude">
 <title><latex/></title>
 
-
         <xi:include href="latex-intro.ptx" /> <!--0821-->
         <xi:include href="latex-math.ptx" /> <!--0823-->
         <xi:include href="latex-math-more.ptx" /><!--0828-->
