@@ -1,0 +1,52 @@
+\documentclass[12pt]{article}
+
+\title{Day \#4: Miscellany, math, and then some more}
+\author{Sean Laverty}
+\date{Wednesday, August 30, 2023}
+
+\usepackage{geometry}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{xcolor}
+
+\begin{document}
+
+\maketitle
+\newpage
+\section{x}
+%%\usepackage{indentfirst}
+\noindent\indent As you write, you might need to \emph{emphasize} certain words or phrases.  We can also explicitly \textit{italicize}, \textbf{bold}, \underline{underline}.
+%%, or \sout{strikeout}. %% this might use a package
+
+There are also commands within mathematical statements, for example, \(\mathbf{x}\) which is one way of communicating vectors.  Sometimes we talk about sets of numbers, for example, \(\mathbb{R} \text{ or } \mathbb{Z}\).  Other times we need fancy letters in calligraphy, \(\mathcal{A}\). 
+
+Occasionally, we need to change the size of certain words or parts of text.  We might want to make something {\Huge{Huge}}. Or {\Large{Large}}, or {\large{large}}. Maybe {\small{small}}, or {\footnotesize{footnote size}}, or {\scriptsize{script size}}, {\tiny{tiny}}.  I believe we have {\LARGE{LARGE}} and {\normalsize{normal}}.
+
+We need to ``escape'' certain symbols that are otherwise treated like commands.  For example the dollar sign is \$.  To print a slash we can use \slash or \textbackslash, but a related command requires a math mode \(\backslash\).
+
+For a vector we need that little line on top, \(\overline{v}\) or \(\vec{v}\).  For actuarial science, you might want to explore \verb|\usepackage{actuarialsymbol}|.  To highlight this, we used commands like \verb|\Large| above to adjust the size of fonts.  For longer statements we can use \begin{verbatim} 
+%% preamble
+\title{Day \#4: Miscellany, math, and then some more}
+\author{Sean Laverty}
+\date{Wednesday, August 30, 2023}
+
+\usepackage{geometry}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\end{verbatim}
+
+Consider the polynomial defined by \(p_n(x)\), which we expand below,
+\begin{align}
+%% \nonumber before \\ suppresses line numbering
+%% \label{eq::text} allows us to track/reference that equation by number
+p_{n}(x) &= \sum_{k=0}^n a_{k}x^{k}\label{eq::sumform}\\
+& = a_{0}x^{0} + a_{1}x^{1} + \dots + a_{n-1}x^{n-1} + a_{n}x^n\nonumber\\
+p_{n}(x) & = a_{0} + a_{1}x + \dots + a_{n-1}x^{n-1} + a_{n}x^n\label{eq::poly}
+\end{align}
+Above in Eq.~\eqref{eq::sumform} we define \(p_{n}(x)\) as a polynomial which we then expand in Eq.~\eqref{eq::poly}.
+
+This was fun but let's add some \textcolor{red}{colors}!  We can actually mix colors too, \textcolor{red!50!blue}{purplish}.  
+{\Huge{\textcolor{black!10!white}{shading}}}.
+%% color!amount!(second color)
+\end{document}

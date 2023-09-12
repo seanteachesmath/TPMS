@@ -1,0 +1,69 @@
+\documentclass[12pt]{article}
+
+\usepackage{geometry}
+
+\title{Day \#5 (Part B): tables}
+\author{Sean Laverty}
+\date{Wednesday, September 6, 2023}
+
+\begin{document}
+
+\maketitle
+\newpage
+
+Sometimes we need to present information in tables.
+
+Below we center-justify,
+
+\begin{tabular}{c|c|c} %% centered
+\(x\) & \(f(x) = x^{2}\) & \(g(x) = e^{x}\)\\
+\hline\hline
+\(0\) & \(f(0) = 0^{2} = 0 \) & \(g(0) = e^{0} = 1\)\\
+\(1\) & \(f(1) = 1^{2} = 1 \) & \(g(1) = e^{1} = e\)\\\end{tabular}
+
+Below we right-justify,
+
+\begin{tabular}{r|r|r} %% right
+\(x\) & \(f(x) = x^{2}\) & \(g(x) = e^{x}\)\\
+\hline\hline
+\(0\) & \(f(0) = 0^{2} = 0 \) & \(g(0) = e^{0} = 1\)\\
+\(1\) & \(f(1) = 1^{2} = 1 \) & \(g(1) = e^{1} = e\)\\\end{tabular}
+
+Below we left-justify,
+
+\begin{tabular}{lll} %% l and | look identical
+\(x\) & \(f(x) = x^{2}\) & \(g(x) = e^{x}\)\\
+\hline\hline
+\(0\) & \(f(0) = 0^{2} = 0 \) & \(g(0) = e^{0} = 1\)\\
+\(1\) & \(f(1) = 1^{2} = 1 \) & \(g(1) = e^{1} = e\)\\\end{tabular}
+
+Below we mix all sorts of justification,
+
+\begin{tabular}{cp{2in}r} %% l and | look identical
+\(x\) & \(f(x) = x^{2}\) & \(g(x) = e^{x}\)\\
+\hline\hline
+\(0\) & \(f(0) = 0^{2} = 0 \) & \(g(0) = e^{0} = 1\)\\
+\(1\) & \(f(1) = 1^{2} = 1 \) & \(g(1) = e^{1} = e\)\\\end{tabular}
+
+\newpage
+Here is some text about the table below. I don't know what I will put in the table yet. Any ideas?
+
+\begin{tabular}{c|cc}
+& Yes & No \\
+\hline
+Pineapple & 3 & 9\\
+Anchovies & 1 & everyone else\\
+Mushrooms & 7 & 3\\
+Balsamic vinegar and fig & 5 & 4\\
+\hline
+& 16 & who knows
+\end{tabular}
+\end{document}
+
+
+
+
+
+
+
+

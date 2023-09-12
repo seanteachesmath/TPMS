@@ -71,6 +71,33 @@ var ptx_lunr_docs = [
   "number": "1.4",
   "title": "Miscellaneous formatting commands",
   "body": " Miscellaneous formatting commands   More involved mathematical results  Our plan is to type a few more involved mathematical results, like aligned calculations.    Review    Student perspective  I am not very great at expressing myself in real life, but strangely, I'm very expressive online. I use emojis, I use funny fonts and I change the size of texts to emphasize words in place of emotion. So, being able to use programming to change the fonts, the size of the text and especially the colors is a huge deal for me. Additionally, I have a secret hobby for writing and this gives me total control to tell a story exactly the way I want to. Finally, when it comes to note taking, I like to use certain colors or fonts to draw attention to specific key points. These new skills we learned are a major game changer when taking notes on a computer.   "
+},
+{
+  "id": "latex-tabular",
+  "level": "1",
+  "url": "latex-tabular.html",
+  "type": "Section",
+  "number": "1.5",
+  "title": "Tabular displays",
+  "body": " Tabular displays   Preview  We will explore formatting commands for tabular displays of information.    Review  Day 1 Notes (pdf) .    Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+},
+{
+  "id": "latex-floats",
+  "level": "1",
+  "url": "latex-floats.html",
+  "type": "Section",
+  "number": "1.6",
+  "title": "Floats: Tables and Figures",
+  "body": " Floats: Tables and Figures   Preview  We expand on working with formal tables and figures, both with captions and in-text references.    Review  Day 1 Notes (pdf) .    Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+},
+{
+  "id": "latex-bibtex",
+  "level": "1",
+  "url": "latex-bibtex.html",
+  "type": "Section",
+  "number": "1.7",
+  "title": "Introduction to BiBTeX",
+  "body": " Introduction to BiBTeX   Preview  Having gained an appreciation for referencing equations, tables, and figures, we put it to the real test with reference management and bibliography tools.    Review  Day 1 Notes (pdf) .    Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
 }
 ]
 

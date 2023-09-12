@@ -1,0 +1,98 @@
+\documentclass[12pt]{article}
+
+\usepackage{geometry}
+
+\title{Day \#5: lists}
+\author{Sean Laverty}
+\date{Wednesday, September 6, 2023}
+
+\begin{document}
+
+\maketitle
+\newpage
+
+Sometimes it is useful to list information. For example,
+\begin{itemize}
+\item Computer Science
+\item Actuarial science
+% describing the math major
+\item Mathematics
+% a few key classes
+\begin{itemize}
+\item Calculus
+% a few key ideas
+\begin{itemize}
+\item Limits
+\item Derivatives
+\item Integrals
+\item Applications
+\end{itemize}
+% on to FOAM
+\item FOAM (Foundations of Advanced Mathematics)
+\item Differential Equations
+\item History of Mathematics
+\end{itemize}
+
+\item Statistics
+\item Philosophy
+\end{itemize}
+
+
+\newpage
+We can also number things. For example,
+\begin{enumerate}
+\item For \(f(x) = x^{2}\), find \(f'(x)\) using,
+\begin{enumerate}
+\item the limit definition of the derivative
+\item the power rule
+\end{enumerate}
+\item Consider the expression \(t^{2^{2}}\) or \({t^2}^{2}\).  I think the first one is the best way to do this. Alternatively we could write this as \((t^{2})^{2}\).  Doing this any less carefully results in a ``double superscript'' error.
+\end{enumerate}
+
+\newpage
+For curiosity we can manually change symbols,
+\begin{itemize}
+\item[\(\dagger\)] this is a ``dagger'' symbol
+\item[\(\ddagger\)] this is a ``double dagger'' symbol
+\item[\(\circ\)] this is a `circ' symbol, which looks like one of the itemize options already
+\end{itemize}
+
+\newpage
+
+In writing proofs, we often need to organize our ideas very carefully.  For example in proof by cases, as follows
+\begin{description}
+\item[\(n\) is even.]\quad\newline
+some calc\quad ulat\qquad ions\newline
+I can add more text here. I can add more text here. I can add more text here.  I can add more text here. I can add more text here.
+\item[\(n\) is odd.] some more calculations
+\end{description}
+
+How to override spacing.
+\begin{description}
+\item[with the quad command]\quad\newline text goes below
+\item[with the slash-comma trick]\,\newline text goes below
+\item[with the phantom command]\phantom{}\newline text goes below
+\item[with your own trick] I don't know what this is figure it out yourself.
+\end{description}
+
+\newpage
+To work on a resume, we could organize with a list.
+\begin{description}
+\item[Education]\,\newline
+\item[Employment History]\,\newline
+\item[Volunteer and Service]\,\newline
+\item[Awards and Honors]\,\newline
+\item[Skills and Certifications] {\LaTeX}, python (beginner), R (intermediate), sage, Microsoft Office
+\item[References] Technically \emph{not} part of the resum\'{e}, but provided alongside as a separate document
+\end{description}
+
+
+
+
+
+
+
+
+
+
+\end{document}
