@@ -28,9 +28,9 @@
 
 <subsection xml:id="latex-lists-student-perspective">
 <title>Student perspective</title>
-<p>I don't recall how to get the commented parts to function, but their
+<p><!--I don't recall how to get the commented parts to function, but their
 original purpose was so that I could have more than one of these lists
-and so that <latex/> could tell them apart.
+and so that <latex/> could tell them apart.-->
 
 
 I found the setup for this within a Stack Exchange post a couple years
