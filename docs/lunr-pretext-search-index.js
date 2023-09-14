@@ -73,11 +73,20 @@ var ptx_lunr_docs = [
   "body": " Miscellaneous formatting commands   More involved mathematical results  Our plan is to introduce a collection of miscellaneous text and math formatting commands.    Review     Day 4 Notes (tex) .   Day 4 Notes (pdf) .      Student perspective  I am not very great at expressing myself in real life, but strangely, I'm very expressive online. I use emojis, I use funny fonts and I change the size of texts to emphasize words in place of emotion. So, being able to use programming to change the fonts, the size of the text and especially the colors is a huge deal for me. Additionally, I have a secret hobby for writing and this gives me total control to tell a story exactly the way I want to. Finally, when it comes to note taking, I like to use certain colors or fonts to draw attention to specific key points. These new skills we learned are a major game changer when taking notes on a computer.   "
 },
 {
+  "id": "latex-lists",
+  "level": "1",
+  "url": "latex-lists.html",
+  "type": "Section",
+  "number": "1.5",
+  "title": "Lists",
+  "body": " Lists   Preview  Our plan is to introduce commands to organize ideas as lists.    Review     Day 5 Notes (tex) .   Day 5 Notes (pdf) .      Student perspective  I found the setup for this within a Stack Exchange post a couple years back while working on a document for my independent study. Stack Exchange is a very helpful website for when you have a question for how to do something specific. It's heavily used by programmers, and they have plenty of posts for stuff like latex as well. I found it interesting that \\phantom{} worked to leave an item's line empty even though it had nothing within its argument. I also found it interesting that \\:{o} didn't work to add the two dots above the o; I also tried using \\..{o} , but that did not work either. I am happy to learn the description environment for case-based lists like in proofs. With the notes about powers of powers, I believe the higher exponential operation has precedence over the lower operation. In other words and from my understanding, without parentheses, t^{2^{2}} is the proper way to represent it, but if you needed to represent it the other way, it should be represented as (t^{2})^{2} . To tell the difference between L's and Pipe's in the tabular environment's argument, it may help to group them, maybe each column is separated by a space since those don't appear to affect the end result. In other words, a single vertical bar (one L) would mean left-aligned with no bar to the right and two vertical bars (an L and a Pipe) would mean left-aligned with a bar to the right. For example, if we want three left aligned columns with a bar between the first two, we could set the tabular environment's argument to {l| l l} .   "
+},
+{
   "id": "latex-tabular",
   "level": "1",
   "url": "latex-tabular.html",
   "type": "Section",
-  "number": "1.5",
+  "number": "1.6",
   "title": "Tabular displays",
   "body": " Tabular displays   Preview  We will explore formatting commands for tabular displays of information.    Review    Day 5b Notes (tex) .   Day 5b Notes (pdf) .      Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
 },
@@ -86,7 +95,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "latex-floats.html",
   "type": "Section",
-  "number": "1.6",
+  "number": "1.7",
   "title": "Floats: Tables and Figures",
   "body": " Floats: Tables and Figures   Preview  We expand on working with formal tables and figures, both with captions and in-text references.    Review     Day 6 Notes (tex) .   Day 6 Notes (pdf) .      Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
 },
@@ -95,7 +104,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "latex-bibtex.html",
   "type": "Section",
-  "number": "1.7",
+  "number": "1.8",
   "title": "Introduction to BiBTeX",
   "body": " Introduction to BiBTeX   Preview  Having gained an appreciation for referencing equations, tables, and figures, we put it to the real test with reference management and bibliography tools.    Review    Day 7 Notes (tex) .  Day 7 Notes (pdf) .      Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
 }
