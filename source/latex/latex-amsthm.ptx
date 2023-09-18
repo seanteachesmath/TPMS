@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<section xml:id="latex-amsthm" ><!--08/17-->
+<title>Mathematical environments from the amsthm package</title>
+<subsection xml:id="latex-amsthm-preview">
+<title>Preview</title>
+
+<p>
+We will introduce tools for defining, customizing, and making the most of environments for stating mathematical definitions, theorems, proofs, and more.
+</p>
+
+</subsection>
+
+<subsection xml:id="latex-amsthm-review">
+<title>Review</title>
+
+<p>
+<ul>
+<li><p>
+
+<url href="https://github.com/UCOMath2753/fall2023-files/blob/main/latex/day8.tex">Day 8 Notes (tex)</url>.
+</p></li>
+
+<li><p>
+<url href="https://github.com/UCOMath2753/fall2023-files/blob/main/latex/day8.pdf">Day 8 Notes (pdf)</url>.</p></li>
+</ul>
+</p>
+
+</subsection>
+
+
+<subsection xml:id="latex-amsthm-student-perspective">
+<title>Student perspective</title>
+<p>Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.</p>
+<p>You might highlight something interesting, surprising, confusing, annoying, or otherwisebeamer important.</p>
+</subsection>
+</section>
