@@ -114,8 +114,8 @@ var ptx_lunr_docs = [
   "url": "latex-amsthm.html",
   "type": "Section",
   "number": "1.9",
-  "title": "Mathematical environments from the amsthm package",
-  "body": " Mathematical environments from the amsthm package   Preview  We will introduce tools for defining, customizing, and making the most of environments for stating mathematical definitions, theorems, proofs, and more.    Review     Day 8 Notes (tex) .   Day 8 Notes (pdf) .      Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwisebeamer important.   "
+  "title": "Mathematical envwironments from the amsthm package",
+  "body": " Mathematical envwironments from the amsthm package   Preview  We will introduce tools for defining, customizing, and making the most of environments for stating mathematical definitions, theorems, proofs, and more.    Review     Day 8 Notes (tex) .   Day 8 Notes (pdf) .      Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwisebeamer important.   "
 },
 {
   "id": "latex-beamer",
@@ -124,7 +124,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.10",
   "title": "beamer presentations",
-  "body": " beamer presentations   Preview  We will transition from the latex article class to the latex beamer class and consider what makes a good oral presentation.    Review     Day 8b Notes (tex) .   Day 8b Notes (pdf) .      Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+  "body": " beamer presentations   Preview  We will transition from the latex article class to the latex beamer class and consider what makes a good oral presentation.    Review     Day 8b Notes (tex) .   Day 8b Notes (pdf) .  A beamer color theme (.sty) .  A second beamer color theme (.sty) .      Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
 }
 ]
 
