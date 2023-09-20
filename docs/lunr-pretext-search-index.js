@@ -124,7 +124,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.10",
   "title": "beamer presentations",
-  "body": " beamer presentations   Preview  We will transition from the latex article class to the latex beamer class and consider what makes a good oral presentation.    Review     Day 8b Notes (tex) .   Day 8b Notes (pdf) .  A beamer color theme (.sty) .  A second beamer color theme (.sty) .      Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+  "body": " beamer presentations   Preview  We will transition from the latex article class to the latex beamer class and consider what makes a good oral presentation.    Review  We used most of our old article commands, but added a few new commands that help control the layout or generate simple animations.   Day 8b Notes (tex) .   Day 8b Notes (pdf) .  A beamer color theme (.sty) .  A second beamer color theme (.sty) .   Day 9 Notes (tex) .   Day 9 Notes (pdf) .      Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
 }
 ]
 
