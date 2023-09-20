@@ -12,7 +12,7 @@
 <subsection xml:id="latex-beamer-review">
 <title>Review</title>
 
-<p>
+<p>We used most of our old <c>article</c> commands, but added a few new commands that help control the layout or generate simple animations.
 <ul>
 <li><p>
 
@@ -27,6 +27,13 @@
 
 <li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/latex/beamercolorthemeuco.sty">A second beamer color theme (.sty)</url>.</p></li>
 
+<li><p>
+
+<url href="https://github.com/UCOMath2753/fall2023-files/blob/main/latex/day9.tex">Day 9 Notes (tex)</url>.
+</p></li>
+
+<li><p>
+<url href="https://github.com/UCOMath2753/fall2023-files/blob/main/latex/day9.pdf">Day 9 Notes (pdf)</url>.</p></li>
 
 </ul>
 </p>
