@@ -26,6 +26,6 @@
 
 <subsection xml:id="latex-topic-student-perspective">
 <title>Student perspective</title>
-<p>This day hath been claimed.</p>
+<p>Arguably in class I was a little overwhelmed at first seeing BiBTeX. That is, at first it seemed like a lot of code for making a reference page; however, slowly through class I realized some important uses of BiBTeX. Being an applied mathematics major, I am very familiar to looking through textbooks for equations, definitions, proofs, ect. for many reasons, such as forgetting the exact formula, verifying what conditions need to be met to use a definition and sometimes to gain inspiration for ideas when doing homework. I have had many textbooks and it can be extremely daunting to find an equation, definition, proof, example, or so on when there are so many books. This is where I have found BiBTeX to be extremely useful! I can write my favorite definitions, examples, proofs, and equations in a LaTeX file, while being able to reference them with a BiBTeX file. Therefore, not only do I have my favorite definitions, examples, proofs, and equations in a pdf in sections. I can see what textbook these mathematical works are located and what pages they are in said textbook. Furthermore, this can help jog my mind if I didn’t see that mathematical work important at the time. That is, I can get an idea of what textbook it is in, and even in some cases, what page. Thus, these features are extremely useful especially as I progress through more math classes..</p>
 </subsection>
 </section>
