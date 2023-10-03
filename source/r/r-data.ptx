@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<section xml:id="r-data" ><!--08/17-->
+<title>Intro to datawrangling</title>
+<subsection xml:id="r-data-preview">
+<title>Preview</title>
+
+<p>We will do a <em>brief</em> peek at datawrangling using a relatively messy, publicly available dataset. After getting a sense of what's involved, we'll step back to look at some more tangible graphing exercises.
+</p>
+
+</subsection>
+
+<subsection xml:id="r-data-review">
+<title>Review</title>
+
+<p>
+The spreadsheets below will preview in GitHub, but you can download to open in R or any other spreadsheet program.
+<ul>
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/r/day2.R">Day 1 Notes (R)</url>.
+</p></li>
+
+<li><p>
+<url href="https://github.com/UCOMath2753/fall2023-files/blob/main/r/excerpt-salary-21.csv">Shared (messy) spreadsheet (.csv)</url>.
+</p></li>
+
+<li><p>
+<url href="https://github.com/UCOMath2753/fall2023-files/blob/main/r/clean-salary-21.csv">Shared ("clean") spreadsheet (.csv)</url>.
+</p></li>
+</ul>
+</p>
+</subsection>
+
+
+<subsection xml:id="r-data-student-perspective">
+<title>Student perspective</title>
+<p>Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.</p>
+<p>You might highlight something interesting, surprising, confusing, annoying, or otherwise important.</p>
+</subsection>
+</section>

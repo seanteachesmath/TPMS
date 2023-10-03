@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter xml:id="programming">
+<chapter xml:id="programming"  xmlns:xi="http://www.w3.org/2001/XInclude">
 <title>Programming</title>
+        <xi:include href="r-spreadsheet.ptx" /> <!--0821-->
+        <xi:include href="r-data.ptx" /> <!--0823-->
 
+        
+<!--><section xml:id="r-transition-spreadsheets">
+<title>Spreadsheets</title>
+
+<subsection xml:id="r-transition-spreadsheets-preview">
+<title>Preview</title>
+<p>
+</p>
+</subsection>
+
+<subsection xml:id="r-transition-spreadsheets-review">
+<title>Review</title>
+<p>
+</p>
+</subsection>
+
+<subsection xml:id="r-transition-spreadsheets-summary">
+<title>Student Perspective</title>
+<p>
+</p>
+</subsection>
+
+</section>
 
 <section xml:id="r-basic">
 <title>Basic calculator functions</title>
@@ -48,9 +73,9 @@
 </p>
 </subsection>
 
-</section>
+</section>-->
 
-
+<!-->
 <section xml:id="r-recurrence">
 <title>Iteration</title>
 
@@ -193,7 +218,7 @@ emerge from the sequence of values.
 
 
 </section>
-
+-->
 
 
 </chapter>
