@@ -125,6 +125,24 @@ var ptx_lunr_docs = [
   "number": "1.10",
   "title": "beamer presentations",
   "body": " beamer presentations   Preview  We will transition from the latex article class to the latex beamer class and consider what makes a good oral presentation.    Review  We used most of our old article commands, but added a few new commands that help control the layout or generate simple animations.   Day 8b Notes (tex) .   Day 8b Notes (pdf) .  A beamer color theme (.sty) .  A second beamer color theme (.sty) .  Day 9 Notes (tex) .   Day 9 Notes (pdf) .   Day 10 Notes (tex) .   Day 10 Notes (pdf) .      Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+},
+{
+  "id": "r-topic",
+  "level": "1",
+  "url": "r-topic.html",
+  "type": "Section",
+  "number": "2.1",
+  "title": "Spreadsheets",
+  "body": " Spreadsheets   Preview  We will explore basic spreadsheet features as a way to first encounter data. Then, given some limitations of spreadsheets will transition to R for a potentially new approach to working with data.    Review  The spreadsheet below will preview in GitHub, but you can download to open in R or any other spreadsheet program.  Day 1 Notes (R) .   Shared (messy) spreadsheet (.csv) .      Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+},
+{
+  "id": "r-data",
+  "level": "1",
+  "url": "r-data.html",
+  "type": "Section",
+  "number": "2.2",
+  "title": "Intro to datawrangling",
+  "body": " Intro to datawrangling   Preview  We will do a brief peek at datawrangling using a relatively messy, publicly available dataset. After getting a sense of what's involved, we'll step back to look at some more tangible graphing exercises.    Review  The spreadsheets below will preview in GitHub, but you can download to open in R or any other spreadsheet program.  Day 1 Notes (R) .   Shared (messy) spreadsheet (.csv) .   Shared (\"clean\") spreadsheet (.csv) .      Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
 }
 ]
 
