@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <section xml:id="r-data-graphs" ><!--08/17-->
-<title>Intro to datawrangling</title>
-<subsection xml:id="r-data-preview">
+<title>Data visualization and graphs</title>
+<subsection xml:id="r-data-graphs-preview">
 <title>Preview</title>
 
 <p>A bit of data exploration and exploratory data analysis and some customization of graphs using point styles, colors, and so on.
@@ -9,7 +9,7 @@
 
 </subsection>
 
-<subsection xml:id="r-data-review">
+<subsection xml:id="r-data-graphs-review">
 <title>Review</title>
 
 <p>
@@ -26,7 +26,7 @@ The spreadsheets below will preview in GitHub, but you can download to open in R
 </subsection>
 
 
-<subsection xml:id="r-data-student-perspective">
+<subsection xml:id="r-data-graphs-student-perspective">
 <title>Student perspective</title>
 <p>Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.</p>
 <p>You might highlight something interesting, surprising, confusing, annoying, or otherwise important.</p>
