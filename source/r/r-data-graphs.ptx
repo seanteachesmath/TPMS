@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<section xml:id="r-data-graphs" ><!--08/17-->
+<title>Intro to datawrangling</title>
+<subsection xml:id="r-data-preview">
+<title>Preview</title>
+
+<p>A bit of data exploration and exploratory data analysis and some customization of graphs using point styles, colors, and so on.
+</p>
+
+</subsection>
+
+<subsection xml:id="r-data-review">
+<title>Review</title>
+
+<p>
+The spreadsheets below will preview in GitHub, but you can download to open in R or any other spreadsheet program.
+<ul>
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/r/day3.R">Day 3 Notes (R)</url>.
+</p></li>
+
+<li><p>
+<url href="https://github.com/UCOMath2753/fall2023-files/blob/main/r/clean-salary-21.csv">Shared ("clean") spreadsheet (.csv)</url>.
+</p></li>
+</ul>
+</p>
+</subsection>
+
+
+<subsection xml:id="r-data-student-perspective">
+<title>Student perspective</title>
+<p>Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.</p>
+<p>You might highlight something interesting, surprising, confusing, annoying, or otherwise important.</p>
+</subsection>
+</section>
