@@ -145,11 +145,20 @@ var ptx_lunr_docs = [
   "body": " Intro to datawrangling   Preview  We will do a brief peek at datawrangling using a relatively messy, publicly available dataset. After getting a sense of what's involved, we'll step back to look at some more tangible graphing exercises.    Review  The spreadsheets below will preview in GitHub, but you can download to open in R or any other spreadsheet program.  Day 1 Notes (R) .   Shared (messy) spreadsheet (.csv) .   Shared (\"clean\") spreadsheet (.csv) .      Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
 },
 {
+  "id": "r-data-graphs",
+  "level": "1",
+  "url": "r-data-graphs.html",
+  "type": "Section",
+  "number": "2.3",
+  "title": "Data visualization and graphs",
+  "body": " Data visualization and graphs   Preview  A bit of data exploration and exploratory data analysis and some customization of graphs using point styles, colors, and so on.    Review  The spreadsheets below will preview in GitHub, but you can download to open in R or any other spreadsheet program.  Day 3 Notes (.R) .   Shared (\"clean\") spreadsheet (.csv) .      Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+},
+{
   "id": "r-for-loop",
   "level": "1",
   "url": "r-for-loop.html",
   "type": "Section",
-  "number": "2.3",
+  "number": "2.4",
   "title": "Automation with for loops",
   "body": " Automation with for loops   Preview  We will introduce a few helpful tricks and show how to use for loops to automate repetitive calculations.    Review    Day 4 Notes (R) .       Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
 },
@@ -158,7 +167,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "r-newton.html",
   "type": "Section",
-  "number": "2.4",
+  "number": "2.5",
   "title": "Automation with for loops: Newton’s method",
   "body": " Automation with for loops: Newton's method   Preview  Using the important idea of a tangent line, we will quickly built what is known as Newton's method for solving equations. This follows from our construction of Fibonacci numbers last time.  Newton's method helps us approximate solutions to by introducing the tangent line to the function at some point , solving for the zero of the tangent line as an approximation to the zero of the function, and repeating as necessary until it's either clear that this isn't working, or we get close enough to the answer.  Newton's method is given by and when it works it generates a sequence of values approximating the solution to starting from .    Review  In addition to Newton's method as a rootfinding tool, we also extended the concept of recurrence relations (i.e., discrete-time-dynamical-systems or difference equations) to a few other more creative directions: approximating square roots and generating interesting sequences of numbers.    Day 5 Notes (R) .       Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
 }
