@@ -3,7 +3,7 @@
 <title>Programming</title>
         <xi:include href="r-spreadsheet.ptx" /> <!--0821-->
         <xi:include href="r-data.ptx" /> <!--0823-->
-        <xi:include href="r-data-graphs.ptx" /> <!--0823-->
+<!-->        <xi:include href="r-data-graphs.ptx" />  0823-->
         <xi:include href="r-for-loop.ptx" /> <!--0823-->
         <xi:include href="r-newton.ptx" /> <!--0823-->
 

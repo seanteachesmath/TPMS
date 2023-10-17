@@ -1,0 +1,15 @@
+INFO    : PreTeXt project found in `/Users/slaverty/GitHub/TPMS`.
+WARNING : Using CLI version 2.0.3 but project's `requirements.txt`
+WARNING : is configured to use 1.7.5. Consider either installing
+WARNING : CLI version 1.7.5 or running `pretext init --refresh`
+WARNING : to update `requirements.txt` to match 2.0.3.
+INFO    : Since no target was supplied, we will use "web".
+
+INFO    : Staging latest build located in `/Users/slaverty/GitHub/TPMS/output/web` at `/Users/slaverty/GitHub/TPMS/output/stage`.
+INFO    : 
+INFO    : Deployment is now staged at `/Users/slaverty/GitHub/TPMS/output/stage`.
+INFO    : Preparing to deploy from active `main` git branch.
+INFO    : 
+INFO    : Changes to project source since last commit detected.
+INFO    : Add/committing these changes to local Git repository.
+INFO    : 
