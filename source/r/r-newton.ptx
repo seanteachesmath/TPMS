@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<section xml:id="r-newton" ><!--08/17-->
+<title>Automation with for loops: Newton's method</title>
+<subsection xml:id="r-newton-preview">
+<title>Preview</title>
+
+<p>Using the important idea of a tangent line, we will quickly built what is known as <em>Newton's method</em> for solving equations.  This follows from our construction of Fibonacci numbers last time.
+</p>
+
+<p>Newton's method helps us approximate solutions to <m>f(x)=0</m> by introducing the tangent line to the function at some point <m>x_0</m>, solving for the zero of the tangent line as an approximation to the zero of the function, and repeating as necessary until it's either clear that this isn't working, or we get close enough to the answer.</p>
+
+<p>Newton's method is given by <me>x_{n+1} = x_{n} - \dfrac{f(x_{n})}{f'(x_n)}</me> and when it works it generates a sequence of values approximating the solution to <m>f(x) = 0</m> starting from <m>x = x_{0}</m>.</p>
+
+</subsection>
+
+<subsection xml:id="r-newton-review">
+<title>Review</title>
+<p>In addition to Newton's method as a rootfinding tool, we also extended the concept of recurrence relations (i.e., discrete-time-dynamical-systems or difference equations) to a few other more creative directions: approximating square roots and generating interesting sequences of numbers.</p>
+<p>
+<ul>
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/r/day5.R">Day 5 Notes (R)</url>.
+</p></li>
+
+<!--><li><p>
+<url href="https://github.com/UCOMath2753/fall2023-files/blob/main/r/clean-salary-21.csv">Shared ("clean") spreadsheet (.csv)</url>.
+</p></li>-->
+</ul>
+</p>
+</subsection>
+
+
+<subsection xml:id="r-newton-student-perspective">
+<title>Student perspective</title>
+<p>Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.</p>
+<p>You might highlight something interesting, surprising, confusing, annoying, or otherwise important.</p>
+</subsection>
+</section>

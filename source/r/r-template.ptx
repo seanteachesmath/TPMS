@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<section xml:id="r-for-loop" ><!--08/17-->
+<title>Automation with for loops</title>
+<subsection xml:id="r-for-loop-preview">
+<title>Preview</title>
+
+<p>We will introduce a few helpful tricks and show how to use <c>for</c> loops to automate repetitive calculations.
+</p>
+
+</subsection>
+
+<subsection xml:id="r-for-loop-review">
+<title>Review</title>
+
+<p>
+<ul>
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/r/day4.R">Day 4 Notes (R)</url>.
+</p></li>
+
+<!--><li><p>
+<url href="https://github.com/UCOMath2753/fall2023-files/blob/main/r/clean-salary-21.csv">Shared ("clean") spreadsheet (.csv)</url>.
+</p></li>-->
+</ul>
+</p>
+</subsection>
+
+
+<subsection xml:id="r-for-loop-student-perspective">
+<title>Student perspective</title>
+<p>Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.</p>
+<p>You might highlight something interesting, surprising, confusing, annoying, or otherwise important.</p>
+</subsection>
+</section>
