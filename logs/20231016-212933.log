@@ -1,0 +1,20 @@
+INFO    : PreTeXt project found in `/Users/slaverty/GitHub/TPMS`.
+WARNING : Using CLI version 2.0.3 but project's `requirements.txt`
+WARNING : is configured to use 1.7.5. Consider either installing
+WARNING : CLI version 1.7.5 or running `pretext init --refresh`
+WARNING : to update `requirements.txt` to match 2.0.3.
+INFO    : Preparing to build into /Users/slaverty/GitHub/TPMS/output/web.
+INFO    : discovering source file's directory name: /Users/slaverty/GitHub/TPMS/source
+INFO    : verifying and expanding input directory: /Users/slaverty/GitHub/TPMS/source/../generated-assets
+INFO    : input directory expanded to absolute path: /Users/slaverty/GitHub/TPMS/generated-assets
+INFO    : verifying and expanding input directory: /Users/slaverty/GitHub/TPMS/source/../assets
+INFO    : input directory expanded to absolute path: /Users/slaverty/GitHub/TPMS/assets
+INFO    : Runestone Services (via PreTeXt repository): version 7.1.2
+INFO    : Runestone Services (using newer, via online CDN query): version 7.1.9
+INFO    : converting /Users/slaverty/GitHub/TPMS/source/main.ptx to HTML in /var/folders/hb/k6_ywz5j0hd8rnp5qz7kgkvm0000gn/T/tmpim340t2w
+INFO    : XSL conversion of /Users/slaverty/GitHub/TPMS/source/main.ptx by /Users/slaverty/.ptx/xsl/pretext-html.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/slaverty/.ptx/xsl/pretext-html.xsl
+INFO    : 
+Success! Run `pretext view` to see the results.
+
