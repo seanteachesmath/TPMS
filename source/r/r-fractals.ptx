@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<section xml:id="r-fractals" ><!--08/17-->
+<title>Generating fractals</title>
+<subsection xml:id="r-fractals-preview">
+<title>Preview</title>
+
+<p>We will Use <c>for</c> loops and other new techniques to generate a famous fractal.
+</p>
+
+</subsection>
+
+<subsection xml:id="r-fractals-review">
+<title>Review</title>
+
+<p>
+<ul>
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/r/day7.R">Day 7 Notes (R)</url>.
+</p></li>
+
+<!--><li><p>
+<url href="https://github.com/UCOMath2753/fall2023-files/blob/main/r/clean-salary-21.csv">Shared ("clean") spreadsheet (.csv)</url>.
+</p></li>-->
+</ul>
+</p>
+</subsection>
+
+
+<subsection xml:id="r-fractals-student-perspective">
+<title>Student perspective</title>
+<p>Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.</p>
+<p>You might highlight something interesting, surprising, confusing, annoying, or otherwise important.</p>
+</subsection>
+
+
+<exercises>
+<introduction><p>
+Try the following.
+</p></introduction>
+
+<exercise>
+<statement>
+<p>Instead of saving data and plotting in the end, you could add a new point at each step.  Try that.</p>
+
+<p>Did you encounter any problems?</p>
+</statement>
+</exercise>
+
+<exercise>
+<statement>
+</statement>
+</exercise>
+
+<exercise>
+<statement>
+</statement>
+</exercise>
+<conclusion><p></p></conclusion>
+</exercises>
+
+
+</section>
