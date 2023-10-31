@@ -39,19 +39,19 @@ Try the following.
 
 <exercise>
 <statement>
-<p>Instead of saving data and plotting in the end, you could add a new point at each step.  Try that.</p>
-
-<p>Did you encounter any problems?</p>
+<p>Instead of saving data and plotting in the end, you could add a new point at each step.  Try that. Did you encounter any problems?</p>
 </statement>
 </exercise>
 
 <exercise>
 <statement>
+<p>Try to implement the calculation using matrices and vectors.</p>
 </statement>
 </exercise>
 
 <exercise>
 <statement>
+<p>Change parameters in the transformation try to generate warped or deformed versions of the triangle.</p>
 </statement>
 </exercise>
 <conclusion><p></p></conclusion>
