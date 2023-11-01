@@ -89,3 +89,4 @@ GitHub.sublime-settings
 .dropbox.attr
 .dropbox.cache
 
+*.log
