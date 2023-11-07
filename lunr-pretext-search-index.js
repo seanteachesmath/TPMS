@@ -170,6 +170,69 @@ var ptx_lunr_docs = [
   "number": "2.5",
   "title": "Automation with for loops: Newton’s method",
   "body": " Automation with for loops: Newton's method   Preview  Using the important idea of a tangent line, we will quickly built what is known as Newton's method for solving equations. This follows from our construction of Fibonacci numbers last time.  Newton's method helps us approximate solutions to by introducing the tangent line to the function at some point , solving for the zero of the tangent line as an approximation to the zero of the function, and repeating as necessary until it's either clear that this isn't working, or we get close enough to the answer.  Newton's method is given by and when it works it generates a sequence of values approximating the solution to starting from .    Review  In addition to Newton's method as a rootfinding tool, we also extended the concept of recurrence relations (i.e., discrete-time-dynamical-systems or difference equations) to a few other more creative directions: approximating square roots and generating interesting sequences of numbers.    Day 5 Notes (R) .       Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+},
+{
+  "id": "r-riemann-sums",
+  "level": "1",
+  "url": "r-riemann-sums.html",
+  "type": "Section",
+  "number": "2.6",
+  "title": "Computing and visualizing Riemann sums",
+  "body": " Computing and visualizing Riemann sums   Preview  We will Use for loops and other new techniques to evaluate Riemann sums.    Review    Day 6 Notes (R) .       Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+},
+{
+  "id": "r-fractals",
+  "level": "1",
+  "url": "r-fractals.html",
+  "type": "Section",
+  "number": "2.7",
+  "title": "Generating fractals",
+  "body": " Generating fractals   Preview  We will Use for loops and other new techniques to generate a famous fractal.    Review    Day 7 Notes (R) .       Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.    Try the following.   Instead of saving data and plotting in the end, you could add a new point at each step. Try that. Did you encounter any problems?    Try to implement the calculation using matrices and vectors.    Change parameters in the transformation try to generate warped or deformed versions of the triangle.     "
+},
+{
+  "id": "exercise-1",
+  "level": "2",
+  "url": "r-fractals.html#exercise-1",
+  "type": "Exercise",
+  "number": "2.7.4.1",
+  "title": "",
+  "body": " Instead of saving data and plotting in the end, you could add a new point at each step. Try that. Did you encounter any problems?  "
+},
+{
+  "id": "exercise-2",
+  "level": "2",
+  "url": "r-fractals.html#exercise-2",
+  "type": "Exercise",
+  "number": "2.7.4.2",
+  "title": "",
+  "body": " Try to implement the calculation using matrices and vectors.  "
+},
+{
+  "id": "exercise-3",
+  "level": "2",
+  "url": "r-fractals.html#exercise-3",
+  "type": "Exercise",
+  "number": "2.7.4.3",
+  "title": "",
+  "body": " Change parameters in the transformation try to generate warped or deformed versions of the triangle.  "
+},
+{
+  "id": "sage-intro",
+  "level": "1",
+  "url": "sage-intro.html",
+  "type": "Section",
+  "number": "3.1",
+  "title": "Introduction to CAS with sage",
+  "body": " Introduction to CAS with sage   Preview  We will transition to the symbolic language sage for symbolic manipulation (e.g., taking derivatives, solving eqauations). As usual, we'll begin with little exploration of built-in mathematical functions and graphing.    Review    Day 0 Notes (sage) .  Day 1 Notes (sage) .       Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
+},
+{
+  "id": "sage-graphs",
+  "level": "1",
+  "url": "sage-graphs.html",
+  "type": "Section",
+  "number": "3.2",
+  "title": "Graph annotation",
+  "body": " Graph annotation   Preview  We will continue with building informative graphs that contain lots of calculus detail.    Review    Day 2 Notes (sage) .       Student perspective  Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.  You might highlight something interesting, surprising, confusing, annoying, or otherwise important.   "
 }
 ]
 
