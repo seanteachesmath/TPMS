@@ -14,5 +14,36 @@ Our campus license allows us to use mathematica, but otherwise very promising op
         <xi:include href="sage-intro.ptx" /> <!--0821-->
         <xi:include href="sage-graphs.ptx" /> <!--0823-->        
         
+        <p>
+<ul>
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/sage/day0-intro.ipynb">Day 0 Notes (sage)</url>.
+</p></li>
+
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/sage/day1-intro.ipynb">Day 1 Notes (sage)</url>.
+</p></li>
+
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/sage/day2-calculus.ipynb">Day 2 Notes (sage)</url>.
+</p></li>
+
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/sage/day3-calculus.ipynb">Day 3 Notes (sage)</url>.
+</p></li>
+
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/sage/day4-functions.ipynb">Day 4 Notes (sage)</url>.
+</p></li>
+
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/sage/day5-graph-program.ipynb">Day 5 Notes (sage)</url>.
+</p></li>
+
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/sage/day6-line-art.ipynb">Day 6 Notes (sage)</url>.
+</p></li>
+
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/sage/hackathon-hint.ipynb">Hackathon Notes (sage)</url>.
+</p></li>
+
+
+</ul>
+</p>
+
+
 </chapter>
     
