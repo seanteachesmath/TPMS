@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<section xml:id="sage-intro" ><!--08/17-->
+<title>Automation with for loops</title>
+<subsection xml:id="sage-intro-preview">
+<title>Preview</title>
+
+<p>We will transition to the symbolic language sage for symbolic manipulation (e.g., taking derivatives, solving eqauations). As usual, we'll begin with little exploration of built-in mathematical functions and graphing.
+</p>
+
+</subsection>
+
+<subsection xml:id="sage-intro-review">
+<title>Review</title>
+
+<p>
+<ul>
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/sage/day0-intro.ipynb">Day 0 Notes (sage)</url>.
+</p></li>
+<li><p><url href="https://github.com/UCOMath2753/fall2023-files/blob/main/sage/day1-intro.ipynb">Day 1 Notes (sage)</url>.
+</p></li>
+
+<!--><li><p>
+<url href="https://github.com/UCOMath2753/fall2023-files/blob/main/r/clean-salary-21.csv">Shared ("clean") spreadsheet (.csv)</url>.
+</p></li>-->
+</ul>
+</p>
+</subsection>
+
+
+<subsection xml:id="sage-fosage-loop-student-perspective">
+<title>Student perspective</title>
+<p>Anybody have any interesting observations to share? Going forward you will have an opportunity to share what you have taken away from a class day of your choosing.</p>
+<p>You might highlight something interesting, surprising, confusing, annoying, or otherwise important.</p>
+</subsection>
+</section>
